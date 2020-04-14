@@ -1,4 +1,4 @@
-# Random Note Cards
+# Flash Cards
 
 This project is a template for flash cards website.
 - This project is built in Javascript and Node based on this 
