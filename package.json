@@ -7,6 +7,7 @@
     "lint": "eslint server.js"
   },
   "dependencies": {
+    "acorn": "^7.1.1",
     "body-parser": "~1.19.0",
     "cookie-parser": "~1.4.5",
     "debug": "~4.1.1",
